@@ -3,3 +3,4 @@ Django初体验,将登录界面与后台管理界面整合，login+index。非�
 
 ![image](http://github.com/lichengguang/loginDemo/raw/master/images-folder/login.png)
 ![image](http://github.com/lichengguang/loginDemo/raw/master/images-folder/index.png)
+![image](https://lichengguang/loginDemo/master/images-folder/index.png?raw=true)
